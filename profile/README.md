@@ -11,10 +11,10 @@
 | 4 | Воробей Іван | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/VOROBEI) | 
 | 5 | Герасимчук Олег | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/HERASYMCHUK-) | 
 | 6 | Іванов Даніл | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/IVANOV) | 
-| 7 | Лукянчіков Олександр | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUKIANCHIKOV) | КОМАНДИР ГРУПИ |
+| 7 | **Лукянчіков Олександр** | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUKIANCHIKOV) | КОМАНДИР ГРУПИ |
 | 8 | Луценко Анатолій | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUTSENKO) | 
 | 9 | Наконечна Анастасія | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/NAKONECHNA) | |
-| 10 | Пазевич Богдан | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/PAZEVYCH) | ЖУРНАЛІСТ |
+| 10 | **Пазевич Богдан** | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/PAZEVYCH) | ЖУРНАЛІСТ |
 | 11 | Письменний Даніїл | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/PYSMENNYI) | 
 | 12 | **Рудніцький Олександр** | [📂 Відкрити репозиторій](https://github.com/group-344-ng/RUDNYTSKY) | ВЛАСНИК ОРГАНІЗАЦІЇ |
 | 13 | Садовський Павло | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/SADOVSKYI) | 
