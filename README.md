@@ -9,7 +9,7 @@
 | 2 | Бідненко Олександр | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/BIDNENKO) | 
 | 3 | Буковинський В'ячеслав | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/BUKOVYNSKY) | 
 | 4 | Воробей Іван | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/VOROBEI) | 
-| 5 | Герасимчук Олег | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/HERASYMCHUK) | 
+| 5 | Герасимчук Олег | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/HERASYMCHUK-) | 
 | 6 | Іванов Даніл | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/IVANOV) | 
 | 7 | Лукянчіков Олександр | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUKIANCHIKOV) | КОМАНДИР ГРУПИ |
 | 8 | Луценко Анатолій | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUTSENKO) | 
