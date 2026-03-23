@@ -6,12 +6,12 @@
 | №/ж | Прізвище та Ім'я | Посилання на роботу | Інформація |
 |:---:|---|:---:|---|
 | 1 | Барліт Єгор | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/BARLIT) | 
-| 2 | Бідненко Олександр | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/BIDNENKO) | 
+| 2 | **Бідненко Олександр** | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/BIDNENKO) | КОМАНДИР ГРУПИ |
 | 3 | Буковинський В'ячеслав | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/BUKOVYNSKY) | 
 | 4 | Воробей Іван | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/VOROBEI) | 
 | 5 | Герасимчук Олег | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/HERASYMCHUK-) | 
 | 6 | Іванов Даніл | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/IVANOV) | 
-| 7 | **Лукянчіков Олександр** | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUKIANCHIKOV) | КОМАНДИР ГРУПИ |
+| 7 | **Лукянчіков Олександр** | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUKIANCHIKOV) | 
 | 8 | Луценко Анатолій | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/LUTSENKO) | 
 | 9 | Наконечна Анастасія | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/NAKONECHNA) | |
 | 10 | **Пазевич Богдан** | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/PAZEVYCH) | ЖУРНАЛІСТ |
