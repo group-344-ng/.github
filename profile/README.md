@@ -21,4 +21,4 @@
 | 14 | Смірнов Нікіта | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/SMIRNOV) | 
 | 15 | Чайка Артем | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/CHAIKA) | КОМАНДИР ВІДДІЛЕННЯ |
 | 16 | Янчук Анастасія | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/YANCHUK) | 
-
+| 17 | Козарчук Віталій | [*📂 Відкрити репозиторій*](https://github.com/group-344-ng/KOZARCHUK)| 
